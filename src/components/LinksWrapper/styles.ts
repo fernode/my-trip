@@ -4,7 +4,7 @@ export const Wrapper = styled.div`
   position: fixed;
   z-index: 11000;
   top: var(--medium);
-  left: var(--medium);
+  right: var(--medium);
   color: var(--white);
   cursor: pointer;
 
