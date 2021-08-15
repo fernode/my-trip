@@ -5,6 +5,7 @@ const GlobalStyles = createGlobalStyle`
     --highlight: #2960a3;
     --background: #030518;
     --white: #eeeeee;
+    --ocean: #2960a3;
     --container: 100rem;
     --small: 1.5rem;
     --medium: 3rem;
